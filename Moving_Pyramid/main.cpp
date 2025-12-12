@@ -1,5 +1,8 @@
 // main.cpp
 
+
+// no more comments in this file
+
 #include "Scene.h"
 
 Scene scene;
